@@ -34,4 +34,11 @@ beak creating table .../
 beak creating visual .../
 ```
 
+Infra:
+
+Code dependencies - UV
+DuckLake - r2 and supabase
+DuckDB - modal or cloudflare containers
+Orchestration - Marimo graph
+Visuals - Marimo notebooks
 
